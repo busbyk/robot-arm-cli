@@ -1,0 +1,14 @@
+{
+  "name": "robot-arm-cli",
+  "version": "1.0.0",
+  "description": "A cli to control a robotic arm that can manage the contents of a series of slots.",
+  "main": "index.js",
+  "bin": {
+    "robot-arm": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kellen Busby",
+  "license": "ISC"
+}
